@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "vichayada",
+  "author": "Vichayada pimpun",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -14,9 +14,7 @@
     "sequelize": "^5.0.0-0",
     "sqlite3": "^5.0.0"
   },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "(index.js) src/app.js"
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
